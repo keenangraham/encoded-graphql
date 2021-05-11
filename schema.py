@@ -1,4 +1,4 @@
-from gql.types import Query
+from .types import Query
 from graphene import Schema
 
 schema = Schema(
